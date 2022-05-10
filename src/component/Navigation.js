@@ -13,7 +13,7 @@ const Navigation = () => {
   return (
     <Navbar bg="dark" variant="dark" expand="lg">
       <Container fluid>
-        <Navbar.Brand href="#">
+        <Navbar.Brand href="/">
           <img
             width={100}
             src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647410910018/spTELtuIz.jpeg"
